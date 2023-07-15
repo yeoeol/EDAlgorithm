@@ -39,6 +39,7 @@ public class Main {
             sb.append(arr[i]).append(' ');
         }
 
+        System.out.println("추가된 부분");
         System.out.println(sb);
         br.close();
     }
